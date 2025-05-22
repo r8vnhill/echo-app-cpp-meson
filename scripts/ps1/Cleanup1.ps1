@@ -1,0 +1,1 @@
+'src\main.cpp', 'src\meson.build' | Remove-Item -Force -Verbose
